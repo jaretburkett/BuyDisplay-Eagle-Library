@@ -1,4 +1,4 @@
-# BuyDisplay Eagle Library #
+# [BuyDisplay.com ](http://buydisplay.com "Buy Display") Eagle Library #
 
 This is an eagle library that I created for some of the displays from **[BuyDisplay.com ](http://buydisplay.com "Buy Display")**. Buy Display is a great place to get cheap displays with amazing quality. 
 
